@@ -1,0 +1,30 @@
+.MMM-Timstock  {
+	width:100%;
+}
+
+
+.MMM-Timstock .timetable {
+	border: 1px solid darkgray;
+	border-spacing: 2px;
+	width:100%;
+	table-layout: fixed;
+}
+
+.MMM-Timstock .timetable .timerow {
+	height: 40px;
+}
+
+.MMM-Timstock .timetable .filled {
+	background-color: red;
+}
+
+.MMM-Timstock .secondtable {
+	width:100%;
+}
+.MMM-Timstock .secondtable td {
+	height:20px;
+}
+.MMM-Timstock .filledSecond {
+	background-color: orange;
+	width:1px;
+}

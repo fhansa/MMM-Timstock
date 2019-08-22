@@ -1,0 +1,22 @@
+{
+  "name": "mmm-timstock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fhansa/MMM-Timstock.git"
+  },
+  "author": "fhansa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fhansa/MMM-Timstock/issues"
+  },
+  "homepage": "https://github.com/fhansa/MMM-Timstock#readme",
+  "dependencies": {
+    "mqtt": "^3.0.0"
+  }
+}
